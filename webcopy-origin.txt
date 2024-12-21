@@ -1,0 +1,104 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\npm\canvas-confetti@1.5.1\dist\confetti.browser.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.prod.website-files.com/669a3911a488f72cbabca56d/669a3c1a57c3b0f5c2f3036b_faviocn.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\669a3911a488f72cbabca56d\669a3c1a57c3b0f5c2f3036b_faviocn.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/669a3911a488f72cbabca56d/669a3c1d835c44b0a97cee7a_webclip.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\669a3911a488f72cbabca56d\669a3c1d835c44b0a97cee7a_webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd6395918050ee_avatar-2435.jpg
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd6395918050ee_avatar-2435.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd6395918050ef_video-cover.jpg
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd6395918050ef_video-cover.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd6395918050ff_ipad.svg
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd6395918050ff_ipad.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd639591805103_avatar-2436.jpg
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd639591805103_avatar-2436.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd639591805113_ipad-elements-top.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd639591805113_ipad-elements-top.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd639591805117_ramos.svg
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd639591805117_ramos.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd63959180511a_card-grid.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd63959180511a_card-grid.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd63959180511e_ramos-bg.jpg
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd63959180511e_ramos-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd639591805136_phone-elements-top.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd639591805136_phone-elements-top.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd63959180513b_mobile-grid-p.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd63959180513b_mobile-grid-p.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd63959180515b_widget-statistic.svg
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd63959180515b_widget-statistic.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd63959180515c_cta-icon-bg.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd63959180515c_cta-icon-bg.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd639591805165_fomr-ipad.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd639591805165_fomr-ipad.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd639591805166_phone-elements-down.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd639591805166_phone-elements-down.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd639591805169_ipad-down-elements-2.svg
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd639591805169_ipad-down-elements-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/66e58efe40dd63959180516c_form-banner.png
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\66e58efe40dd63959180516c_form-banner.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/6721f90a00f356aaaaa63b0e_lenis.txt
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\6721f90a00f356aaaaa63b0e_lenis.txt
+Content Type: text/plain
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/css/ramos-app.webflow.25597bb62.css
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\css\ramos-app.webflow.25597bb62.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/66e58efe40dd6395918050ce/js/webflow.3bb863881.js
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\66e58efe40dd6395918050ce\js\webflow.3bb863881.js
+Content Type: text/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=66e58efe40dd6395918050ce
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://dl.dropboxusercontent.com/s/87iozgh1s9pw46j3cn49i/ramos-promo-half.mp4?rlkey=6irgep027719wp14r57the1nx&st=ju51r4id&dl=0
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\s\87iozgh1s9pw46j3cn49i\ramos-promo-half.mp4
+Content Type: video/mp4
+
+Uri: https://ramos-app.webflow.io/
+File Name: D:\Software Development\Web-clone\ramos-app.webflow.io\index.htm
+Content Type: text/html
+
